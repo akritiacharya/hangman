@@ -124,8 +124,8 @@ def playGame(wordList):
 
     wordList: list (string)
     """
-    # TO DO... <-- Remove this comment when you code this function
-    print("playGame not yet implemented.") # <-- Remove this when you code this function
+  
+    print("playGame not yet implemented.") 
 
         
 #
